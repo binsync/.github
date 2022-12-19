@@ -1,7 +1,7 @@
 ## The BinSync Project  
 
 <p align="center">
-   <img src="https://i.imgur.com/qdesKpg.png" alt="BinSync Logo"/>
+   <img src="https://i.imgur.com/qdesKpg.png" style="width: 70%;" alt="BinSync Logo"/>
 </p>
 
 The BinSync project is a set of decompiler collaboration and enchancement tools. Its title project [BinSync](https://binsync.net), 
